@@ -1,0 +1,36 @@
+body {
+    color: white;
+    background-color: #004AAD;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    display: flex;
+    gap: 25px;
+    justify-content: space-around;
+    list-style-type: none;
+    align-items: center;
+    align-content: flex-start;
+    background-color: #004AAD;
+}
+
+h2 {
+    display: flex;
+    gap: 25px;
+    justify-content: space-around;
+    list-style-type: none;
+    align-items: center;
+    align-content: flex-start;
+    background-color: #004AAD;
+}
+
+img {
+    width: 1600px;
+    height: 360px;
+    box-shadow: 0 10px 25px rgba(0,0,0,.5);
+    justify-content: space-around;
+}
+
+a {
+    color: white;
+}
